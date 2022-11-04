@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter03/Operators/bin/Debug/net6.0/Operators
+/Users/adrian/C#/C# knijka/Chapter03/Operators/bin/Debug/net6.0/Operators.deps.json
+/Users/adrian/C#/C# knijka/Chapter03/Operators/bin/Debug/net6.0/Operators.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter03/Operators/bin/Debug/net6.0/Operators.dll
+/Users/adrian/C#/C# knijka/Chapter03/Operators/bin/Debug/net6.0/Operators.pdb
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.dll
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/refint/Operators.dll
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.pdb
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/Operators.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter03/Operators/obj/Debug/net6.0/ref/Operators.dll

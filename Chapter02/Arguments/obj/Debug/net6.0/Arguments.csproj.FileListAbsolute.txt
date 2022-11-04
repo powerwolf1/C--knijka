@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/bin/Debug/net6.0/Arguments
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/bin/Debug/net6.0/Arguments.deps.json
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/bin/Debug/net6.0/Arguments.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/bin/Debug/net6.0/Arguments.dll
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/bin/Debug/net6.0/Arguments.pdb
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.dll
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/refint/Arguments.dll
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.pdb
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/Arguments.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter02/Arguments/obj/Debug/net6.0/ref/Arguments.dll

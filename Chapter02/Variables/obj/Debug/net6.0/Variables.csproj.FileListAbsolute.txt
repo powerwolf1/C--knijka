@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter02/Variables/bin/Debug/net6.0/Variables
+/Users/adrian/C#/C# knijka/Chapter02/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/adrian/C#/C# knijka/Chapter02/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter02/Variables/bin/Debug/net6.0/Variables.dll
+/Users/adrian/C#/C# knijka/Chapter02/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.dll
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter02/Variables/obj/Debug/net6.0/ref/Variables.dll

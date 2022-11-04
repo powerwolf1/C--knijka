@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/bin/Debug/net6.0/IfStatements
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/bin/Debug/net6.0/IfStatements.deps.json
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/bin/Debug/net6.0/IfStatements.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/bin/Debug/net6.0/IfStatements.dll
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/bin/Debug/net6.0/IfStatements.pdb
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.dll
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/refint/IfStatements.dll
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.pdb
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/IfStatements.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter03/IfStatements/obj/Debug/net6.0/ref/IfStatements.dll

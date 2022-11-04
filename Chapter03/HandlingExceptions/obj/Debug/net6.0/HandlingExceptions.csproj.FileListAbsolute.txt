@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/bin/Debug/net6.0/HandlingExceptions
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/bin/Debug/net6.0/HandlingExceptions.deps.json
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/bin/Debug/net6.0/HandlingExceptions.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/bin/Debug/net6.0/HandlingExceptions.dll
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/bin/Debug/net6.0/HandlingExceptions.pdb
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.dll
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/refint/HandlingExceptions.dll
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.pdb
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/HandlingExceptions.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter03/HandlingExceptions/obj/Debug/net6.0/ref/HandlingExceptions.dll

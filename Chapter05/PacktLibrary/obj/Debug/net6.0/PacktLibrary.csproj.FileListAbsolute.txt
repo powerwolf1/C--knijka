@@ -1,0 +1,12 @@
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/bin/Debug/net6.0/PacktLibrary.deps.json
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/bin/Debug/net6.0/PacktLibrary.dll
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/bin/Debug/net6.0/PacktLibrary.pdb
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.dll
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/refint/PacktLibrary.dll
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/PacktLibrary.pdb
+/Users/adrian/C#/C# knijka/Chapter05/PacktLibrary/obj/Debug/net6.0/ref/PacktLibrary.dll

@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/bin/Debug/net6.0/LoopingStatements
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/bin/Debug/net6.0/LoopingStatements.deps.json
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/bin/Debug/net6.0/LoopingStatements.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/bin/Debug/net6.0/LoopingStatements.dll
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/bin/Debug/net6.0/LoopingStatements.pdb
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.dll
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/refint/LoopingStatements.dll
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.pdb
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/LoopingStatements.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter03/LoopingStatements/obj/Debug/net6.0/ref/LoopingStatements.dll

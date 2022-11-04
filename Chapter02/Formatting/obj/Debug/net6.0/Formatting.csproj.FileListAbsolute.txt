@@ -1,0 +1,15 @@
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/bin/Debug/net6.0/Formatting
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/bin/Debug/net6.0/Formatting.deps.json
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/bin/Debug/net6.0/Formatting.runtimeconfig.json
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/bin/Debug/net6.0/Formatting.dll
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/bin/Debug/net6.0/Formatting.pdb
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.csproj.AssemblyReference.cache
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.AssemblyInfoInputs.cache
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.AssemblyInfo.cs
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.dll
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/refint/Formatting.dll
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.pdb
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/Formatting.genruntimeconfig.cache
+/Users/adrian/C#/C# knijka/Chapter02/Formatting/obj/Debug/net6.0/ref/Formatting.dll
